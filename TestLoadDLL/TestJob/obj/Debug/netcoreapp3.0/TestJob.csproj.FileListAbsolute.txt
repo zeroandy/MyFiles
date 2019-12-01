@@ -1,0 +1,8 @@
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\bin\Debug\netcoreapp3.0\TestJob.deps.json
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\bin\Debug\netcoreapp3.0\TestJob.dll
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\bin\Debug\netcoreapp3.0\TestJob.pdb
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\obj\Debug\netcoreapp3.0\TestJob.AssemblyInfoInputs.cache
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\obj\Debug\netcoreapp3.0\TestJob.AssemblyInfo.cs
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\obj\Debug\netcoreapp3.0\TestJob.dll
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\obj\Debug\netcoreapp3.0\TestJob.pdb
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestJob\obj\Debug\netcoreapp3.0\TestJob.csprojAssemblyReference.cache

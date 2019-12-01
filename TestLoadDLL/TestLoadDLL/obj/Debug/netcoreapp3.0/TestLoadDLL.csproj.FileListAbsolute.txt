@@ -1,0 +1,15 @@
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\obj\Debug\netcoreapp3.0\TestLoadDLL.csprojAssemblyReference.cache
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\obj\Debug\netcoreapp3.0\TestLoadDLL.AssemblyInfoInputs.cache
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\obj\Debug\netcoreapp3.0\TestLoadDLL.AssemblyInfo.cs
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\TestLoadDLL.exe
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\TestLoadDLL.deps.json
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\TestLoadDLL.runtimeconfig.json
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\TestLoadDLL.runtimeconfig.dev.json
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\TestLoadDLL.dll
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\TestLoadDLL.pdb
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\obj\Debug\netcoreapp3.0\TestLoadDLL.dll
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\obj\Debug\netcoreapp3.0\TestLoadDLL.pdb
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\System.Reactive.Linq.dll
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\System.Reactive.dll
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\bin\Debug\netcoreapp3.0\System.Reactive.xml
+C:\Users\ChengJhe\Desktop\TestLoadDLL\TestLoadDLL\obj\Debug\netcoreapp3.0\TestLoadDLL.csproj.CopyComplete
